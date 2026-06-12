@@ -130,7 +130,7 @@ const AdvisoryBoard = () => {
             We are building an exceptional advisory board of world-class experts across technology, strategy, and innovation.
             <br />
             <br />
-            Want to be one? We'd love to hear from you.
+            Want to be one? We would love to hear from you.
           </p>
 
           {/* CTA Button */}
