@@ -37,16 +37,16 @@ const About = () => {
       image: drAidaPhoto
     },
     {
-      name: "Dr. Vilas Joshi",
-      role: "Executive Director-Technology",
-      glow: "rgba(0,240,255,0.12)",
-      image: VJphoto
-    },
-    {
       name: "Dr. Zoha Rahman",
       role: "Executive Director-Strategy",
       glow: "rgba(139,92,246,0.15)",
       image: ZRphoto
+    },
+    {
+      name: "Dr. Vilas Joshi",
+      role: "Executive Director-Technology",
+      glow: "rgba(0,240,255,0.12)",
+      image: VJphoto
     },
     {
       name: "Lawrence Mazaki Mashati",
