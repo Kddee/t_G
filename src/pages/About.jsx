@@ -5,6 +5,7 @@ import VJphoto from '../assets/VJ.png';
 import LMphoto from '../assets/LM.jpeg';
 
 import CFphoto from '../assets/cf.jpeg';
+import ZRphoto from '../assets/ZR.jpeg';
 
 const About = () => {
   const values = [
@@ -40,6 +41,12 @@ const About = () => {
       role: "Executive Director-Technology",
       glow: "rgba(0,240,255,0.12)",
       image: VJphoto
+    },
+    {
+      name: "Dr. Zoha Rahman",
+      role: "Executive Director-Strategy",
+      glow: "rgba(139,92,246,0.15)",
+      image: ZRphoto
     },
     {
       name: "Lawrence Mazaki Mashati",
